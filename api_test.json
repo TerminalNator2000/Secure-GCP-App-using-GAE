@@ -1,0 +1,7 @@
+POST https://YOUR_PROJECT_ID.ue.r.appspot.com/publish
+{
+  "id": "12345",
+  "event_name": "user_signup",
+  "event_time": "2024-10-31T12:00:00Z",
+  "data": "sample data"
+}
