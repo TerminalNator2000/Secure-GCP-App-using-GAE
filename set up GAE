@@ -1,2 +1,4 @@
 # Create App Engine application
 gcloud app create --region=YOUR_REGION
+
+# Once deployed, you can access your app’s endpoint at https://YOUR_PROJECT_ID.ue.r.appspot.com/.
