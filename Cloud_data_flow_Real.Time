@@ -1,0 +1,10 @@
+For real-time data processing, you can use Cloud Dataflow to transform and route data from Pub/Sub to BigQuery.
+
+Create a Dataflow job that subscribes to your Pub/Sub topic and streams the data into BigQuery.
+
+Use the Dataflow template PubSub to BigQuery from the Dataflow templates in the Google Cloud Console.
+
+Configure the Dataflow job:
+
+Input Pub/Sub topic: projects/YOUR_PROJECT_ID/topics/data-topic
+BigQuery table: YOUR_PROJECT_ID:realtime_analytics.events
