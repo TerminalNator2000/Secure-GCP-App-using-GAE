@@ -1,0 +1,7 @@
+Enable Google Cloud Logging and Monitoring:
+
+Go to Cloud Monitoring in the Google Cloud Console and create dashboards to monitor the health and activity of your application.
+
+Set Alerts:
+
+Configure alerts for Pub/Sub error rates, App Engine latency, or BigQuery processing errors.
