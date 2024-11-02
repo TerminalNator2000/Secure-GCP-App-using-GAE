@@ -1,0 +1,12 @@
+Go to BigQuery Console.
+
+Create a new dataset (e.g., realtime_analytics).
+
+Create a table within the dataset (e.g., events), and define the schema based on the type of data you expect to process.
+
+For example:
+
+id (STRING)
+event_name (STRING)
+event_time (TIMESTAMP)
+data (STRING)
