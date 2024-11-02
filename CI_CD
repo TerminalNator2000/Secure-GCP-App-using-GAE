@@ -1,0 +1,3 @@
+Set up a CI/CD pipeline to automatically test and deploy updates to your application using Cloud Build or another CI/CD tool.
+
+Automate security scans and checks in the pipeline to maintain security standards.
