@@ -1,0 +1,2 @@
+# Create App Engine application
+gcloud app create --region=YOUR_REGION
