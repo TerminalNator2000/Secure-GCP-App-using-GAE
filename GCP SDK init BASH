@@ -1,0 +1,8 @@
+# Install Google Cloud SDK (if not already installed)
+curl https://sdk.cloud.google.com | bash
+
+# Initialize SDK
+gcloud init
+
+# Set project ID
+gcloud config set project YOUR_PROJECT_ID
